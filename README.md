@@ -1,7 +1,7 @@
-- 👋  Hi, I’m @Chalayyy
-- 👀  I’m interested in machine learning, artificial intelligence and algorithm design.
+- 🙋🏽‍  Hi, I’m @Chalayyy
+- 🤖  I’m interested in machine learning, artificial intelligence and algorithm design.
 - 🌱  I’m currently learning how to implement APIs and use GitLab.
-- 💞️  I’m looking to collaborate on a D&D resource import project. 
+- 🔭  I’m looking to collaborate on a D&D resource import project. 
 - 📫  How to reach me: Carrier Pigeon (they know where to find me). If that doesn't work, my email is charlienino@gmail.com
 
 <!---
