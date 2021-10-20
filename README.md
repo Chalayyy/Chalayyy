@@ -1,4 +1,4 @@
-- 🙋🏽‍  Hi, I’m @Chalayyy
+- 🙋🏽‍  Hi, I’m Charlie!
 - 🤖  I’m interested in machine learning, artificial intelligence and algorithm design.
 - 🌱  I’m currently learning Ruby on Rails.
 - 🔭  I’m looking to collaborate on a D&D resource import project. 
